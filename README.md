@@ -10,15 +10,23 @@ Procedure for Kahoot clone showcases
 - Everyone joins in and answers the questions
 - We have fun
 
-Questions regarding Kahoot clone showcases:
+### Questions regarding Kahoot clone showcases:
+
 **Q: Do we have to talk about the project / show code / etc?**
+
 A: No, you don't have to say or show anything (or even stand in front of the class - I can just distribute your application link, so we can play)
 
 **Q: Our clone is not functional / not deployed / etc**
-A: No worries - you may also show your UI / present a game round locally if you would like to
 
-![alt text](image.png)
+A: No worries - you may also show your UI / present a game round locally if you would like to
 
 ## Exercise: Setting up the layers
 
 *(Execise description coming soon)*
+
+![alt text][logo]
+
+[logo]: image.png
+<style>
+  img[alt="alt text"] {width: 200px;}
+</style>
