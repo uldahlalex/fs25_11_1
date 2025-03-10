@@ -1,26 +1,15 @@
 #### Remote repo on Github: `https://github.com/uldahlalex/fs25_11_1` 
 
-### Agenda, Wednesday 12th of February
-- 08:15: Release party: Project Showcases of Kahoot clone
-- 09:15: Short break
-- 09:30: Introduction to Onion Architecture
+### Agenda, Wednesday, 12th of February
+- 08:15: Presentation of Kahoot Guided Solution (+ optional student implementations)
+- 08:45: Short break
+- 09:00: Introduction to Onion Architecture
 
-Procedure for Kahoot clone showcases
-- Group gives the link to their application
-- Everyone joins in and answers the questions
-- We have fun
+### Notice: The format has recently been changed: Now I do a walkthrough of how to solve the exercise + you will have chance to share your solutions / implementation proposals
 
-### Questions regarding Kahoot clone showcases:
+___
 
-**Q: Do we have to talk about the project / show code / etc?**
-
-A: No, you don't have to say or show anything (or even stand in front of the class - I can just distribute your application link, so we can play)
-
-**Q: Our clone is not functional / not deployed / etc**
-
-A: No worries - you may also show your UI / present a game round locally if you would like to
-
-## Exercise: Setting up the layers
+### Onion Exercise 1: Setting up the layers (exercise starting  9:30 o'clock)
 
 *(Execise description coming soon)*
 
