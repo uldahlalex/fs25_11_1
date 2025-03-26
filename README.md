@@ -5,6 +5,8 @@
 - 08:45: Short break
 - 09:00: Introduction to Onion Architecture
 
+Slides: `https://docs.google.com/presentation/d/1hHOcf-1n54G7XY2RyRN6pHt_AfhbbExYTix-_0y7tX0/edit?usp=sharing`
+
 ### Notice: The format has recently been changed: Now I do a walkthrough of how to solve the exercise + you will have chance to share your solutions / implementation proposals
 
 ___
